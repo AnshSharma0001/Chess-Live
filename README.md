@@ -2,7 +2,7 @@
 
 ChessConsole is a JavaScript-based chess game client framework that uses [cm-chessboard](https://github.com/shaack/cm-chessboard) and [Bootstrap](https://getbootstrap.com/) to create a browser-based, mobile-friendly, responsive chess game GUI.
 
-- **[Repository on GitHub](https://github.com/shaack/chess-console)**
+
 - **[Demo pages](https://shaack.com/projekte/chess-console)**
 
 ### chess-console is used in Production
